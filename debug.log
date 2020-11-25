@@ -1,0 +1,5 @@
+[1118/140501.183:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1119/081555.108:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1119/081555.123:ERROR:exception_snapshot_win.cc(99)] thread ID 1628 not found in process
+[1119/081555.139:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1119/081555.139:ERROR:exception_snapshot_win.cc(99)] thread ID 8160 not found in process

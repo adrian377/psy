@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(10, 1, 59);
+   background-color: rgb(182, 230, 67);
+   padding: 30px;
+ }  
+
+div.wyrownanie {
+
+
+h1.glownah {
+  color: white;
+  font-size: 24pt;
+
+
+body {
+  background-color: red;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+/*mysz nad linkiem */
+a:visited {
+  color: red
+
